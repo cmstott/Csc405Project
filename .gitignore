@@ -1,0 +1,4 @@
+# File extensions to ignore.
+
+# Folders to ignore.
+/.ipynb_checkpoints/**
